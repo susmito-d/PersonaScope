@@ -54,7 +54,7 @@ PersonaScope/
 ---
 
 ## লাইভ ডেমো
-[PersonaScope Live](https://susmito-dev.github.io/PersonaScope/)  
+[PersonaScope Live](https://susmito-d.github.io/PersonaScope/)  
 
 ---
 
