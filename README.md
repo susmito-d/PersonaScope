@@ -83,3 +83,29 @@ PersonaScope/
 ├── style.css        # Styling sheet
 ├── script.js        # Logic handler
 └── README.md        # Documentation
+```
+---
+
+## Future Roadmap
+**🔮 Upcoming Updates**
+
+- [ ] **Direct API Integration:** Connect directly with OpenAI/Gemini API for real-time analysis.
+- [ ] **Visual Dashboard:** Display charts and graphs of personality traits directly in the browser.
+- [ ] **Mobile Optimization:** Enhanced responsive design for smoother mobile experience.
+- [ ] **Multi-language Support:** Adding Bengali and other languages to reach a wider audience.
+
+---
+
+## Author
+**👨‍💻 Susmito Datta** *Inventor, Developer, & Dreamer.*
+
+I am a passionate developer focused on building tools that bridge the gap between human psychology and Artificial Intelligence.  
+
+© 2026 Susmito Datta. All Rights Reserved.  
+*Built for educational and entertainment purposes.*
+
+---
+
+<p align="center">
+  <i>Made with ❤️ and Logic by Susmito</i>
+</p>
